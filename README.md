@@ -9,9 +9,9 @@
 (// _  \   //      /   //  __'  \  \  |___(: (____/ //  __/  \\   
 |: | \  \ |:  __   \  /   /  \\  \( \_|:  \\        /  /" \   :)  
 (__|  \__)|__|  \___)(___/    \___)\_______)\"_____/  (_______/   
-                                                                  
 
-# 👋 Hi, I’m @kralos-7
+```
+👋 Hi, I’m @kralos-7
 
 * 👀 **Interested in:** Open Source, Linux, and Networking.
 * 🌱 **Learning:** Programming languages and automation.
